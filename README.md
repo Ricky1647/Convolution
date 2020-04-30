@@ -5,3 +5,4 @@
 1. 原始矩陣
 2. 矩陣與遮罩 A 進行折積後的結果
 3. 矩陣與遮罩 B 進行折積後的結果
+![image](https://github.com/Ricky1647/Convolution/blob/master/Convplution.PNG)
